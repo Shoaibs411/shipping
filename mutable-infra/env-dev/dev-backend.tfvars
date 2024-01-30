@@ -1,3 +1,3 @@
-bucket  = "b56-terraform-state--bucket"
+bucket  = "roboshop-terraform-state--bucket"
 key     = "dev/mutable-infra/shipping/terraform.tfstate"
 region  = "us-east-1"
